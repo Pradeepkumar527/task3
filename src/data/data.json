@@ -1,0 +1,22 @@
+{
+	"profile":[
+{
+
+	"basics":{
+	"name":"Pradeep kumar",
+	"role": "Student",
+	"phone":9652834922,
+	"email":"pradeepkumargulipalli99@gmail.com"
+	}
+
+},
+{
+	"basics":{
+	"name":"Ganesh",
+	"role": "Student",
+	"phone":9398922368,
+	"email":"ganesh@gmail.com"
+	}
+}
+]
+}
