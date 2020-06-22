@@ -4,19 +4,50 @@
 
 	"basics":{
 	"name":"Pradeep kumar",
-	"role": "Student",
+	"role": "Learner",
 	"phone":9652834922,
 	"email":"pradeepkumargulipalli99@gmail.com"
-	}
+	},
+	"career":"i want ot explore my skills to give better output to our solution",
+
+	"pname":"Full Name: Gulipalli Pradeep kumar",
+	"paddress":"Permanent Address: 2-14,Uma maheswarapuram,Kodurupadu,Krshna,district,521110.",
+	"pmobile":"Mobile no: 9652834922",
+	"pdob":"Date of Birth : 20-06-1999",
+	"page":"Age: 20 years",
+	"pgender":"Gender : Male",
+	"pnation":"Nationality : Indian",
+	"plang":"Languages known: Telugu,English.",
+	"pbtech":"2017-2021 : completed B.tech in Dhanekula Institute of Engineering and Technology with 7.78 CGPA",
+	"pinter":"2015-2017 : completed Intermediate in Andhra Loyola College with 96%.",
+	"p10":"2014-2015 : completed ssc in Geetanjali High School with 9.3 CGPA."
+
 
 },
+
+
+
+
 {
 	"basics":{
 	"name":"Ganesh",
 	"role": "Student",
 	"phone":9398922368,
 	"email":"ganesh@gmail.com"
-	}
+	},
+	"career":"i want ot explore my skills to give better output to our solution",
+	"pname":"Full Name: Guntureddy sai Ganesh",
+	"paddress":"Permanent Address: 4-38,Uma maheswarapuram,Kodurupadu,Krshna,district,521110.",
+	"pmobile":"Mobile no: 9398922368",
+	"pdob":"Date of Birth : 07-06-1999",
+	"page":"Age: 20 years",
+	"pgender":"Gender : Male",
+	"pnation":"Nationality : Indian",
+	"plang":"Languages known: Telugu,English.",
+	"pbtech":"2017-2021 : completed B.tech in Ramachandra college of Engineering with 7.75 CGPA",
+	"pinter":"2015-2017 : completed Intermediate in Narayana junior College with 95%.",
+	"p10":"2014-2015 : completed ssc in Geetanjali High School with 8.2 CGPA."
+
 }
 ]
 }
